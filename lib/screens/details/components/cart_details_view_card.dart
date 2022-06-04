@@ -1,8 +1,8 @@
-import '../../components/price.dart';
-import '../../models/ProductItem.dart';
 import 'package:flutter/material.dart';
 
+import '../../../components/price.dart';
 import '../../../constants.dart';
+import '../../../models/ProductItem.dart';
 
 class CartDetailsViewCard extends StatelessWidget {
   const CartDetailsViewCard({

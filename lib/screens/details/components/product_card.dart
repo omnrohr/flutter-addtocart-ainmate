@@ -1,9 +1,9 @@
-import '../../components/fav_btn.dart';
-import '../../components/price.dart';
-import '../../models/Product.dart';
 import 'package:flutter/material.dart';
 
+import '../../../components/fav_btn.dart';
+import '../../../components/price.dart';
 import '../../../constants.dart';
+import '../../../models/Product.dart';
 
 class ProductCard extends StatelessWidget {
   const ProductCard({
